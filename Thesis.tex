@@ -1,0 +1,43 @@
+\documentclass[prc,preprint,showpacs,eqsecnum,superscriptaddress,floatfix]{revtex4-1}
+%\documentclass[a4paper,12pt]{book}
+%\documentclass[12pt]{report}
+\usepackage{amssymb}
+\usepackage{graphicx}
+%\usepackage{cite}
+\graphicspath{{images/}{../images/}}%makes it so it finds the images
+
+\usepackage{amsmath,amssymb,amsfonts,stmaryrd,wasysym,graphicx,multirow,color,textcomp,subfigure}
+\usepackage{url}\usepackage{diagrams}
+\usepackage[colorlinks=true,citecolor=blue,urlcolor=blue]{hyperref}
+
+\newcommand{\AFTR}{\hyperlink{AFTR}{AFTR} }
+\newcommand{\ARPES}{\hyperlink{ARPES}{ARPES} }
+
+\begin{document}
+	\title{Applications of the Pfaffian state to fractional topological insulators and models of Dirac/Weyl semimetals}
+	\author{Alexander Sirota}
+	\begin{abstract}
+		\input{./sections/abstract}
+	\end{abstract}
+\maketitle %title, abstract, and author are part of the title i.e. must be placed before this line
+{ % making just the table of contents links black
+	\hypersetup{linkcolor=black}
+	\tableofcontents
+}
+\input{./sections/acknowledgments} %complete
+
+\section{Introduction}
+\input{./sections/introduction}
+%\section{Background}
+%\input{./sections/background}
+\section{From Dirac semimetals to topological phases in three dimensions: a coupled wire construction}
+\input{./sections/coupledPaper}
+\section{Surfaces and Slabs of Fractional Topological Insulator Heterostructures}
+\input{./sections/FTI}
+\section{Conclusion}
+\input{./sections/conclusion}
+
+\input{./sections/coupledBib}
+\input{./sections/FTIbib}
+
+\end{document}

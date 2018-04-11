@@ -1,0 +1,40 @@
+\contentsline {title}{Applications of the Pfaffian state to fractional topological insulators and models of Dirac/Weyl semimetals}{1}{section*.2}
+\contentsline {abstract}{Abstract}{1}{section*.1}
+\tocdepth@munge 
+\contentsline {section}{\numberline {}Contents}{2}{section*.3}
+\tocdepth@restore 
+\contentsline {section}{\numberline {}Acknowledgments}{3}{section*.4}
+\contentsline {section}{\numberline {I}Introduction}{4}{section*.5}
+\contentsline {subsection}{\numberline {A}What is the quantum hall effect?}{4}{section*.6}
+\contentsline {subsection}{\numberline {B}What is the fractional quantum hall effect?}{6}{section*.7}
+\contentsline {subsection}{\numberline {C}The Pfaffian states}{9}{section*.8}
+\contentsline {subsubsection}{\numberline {1}Conformal Field Theory and Cherns Simons Theory Aside}{10}{section*.9}
+\contentsline {subsection}{\numberline {D}Pfaffian Field Theory}{15}{section*.10}
+\contentsline {subsubsection}{\numberline {1}Gluing and splitting}{18}{section*.11}
+\contentsline {subsection}{\numberline {E}What is an Topological Insulator?}{22}{section*.12}
+\contentsline {subsection}{\numberline {F}What are Dirac/Weyl semimetals?}{26}{section*.13}
+\contentsline {subsection}{\numberline {G}Topological insulators with spin}{30}{section*.14}
+\contentsline {section}{\numberline {II}From Dirac semimetals to topological phases in three dimensions: a coupled wire construction}{34}{section*.15}
+\contentsline {subsection}{\numberline {A}Introduction}{34}{section*.16}
+\contentsline {subsubsection}{\numberline {1}Summary of results}{37}{section*.17}
+\contentsline {subsection}{\numberline {B}Coupled wire construction of a Dirac semimetal}{40}{section*.18}
+\contentsline {subsubsection}{\numberline {1}The anomalous Dirac semimetal}{49}{section*.19}
+\contentsline {subsubsection}{\numberline {2}Broken symmetries and coarse-graining}{52}{section*.20}
+\contentsline {subsubsection}{\numberline {3}Holographic projection from 4D}{56}{section*.21}
+\contentsline {subsubsection}{\numberline {4}AFTR breaking surfaces}{57}{section*.22}
+\contentsline {subsubsection}{\numberline {5}AFTR preserving surfaces}{60}{section*.23}
+\contentsline {subsection}{\numberline {C}Many-body interacting variations}{61}{section*.24}
+\contentsline {subsubsection}{\numberline {1}Symmetry preserving massive interacting model}{62}{section*.25}
+\contentsline {subsubsection}{\numberline {2}Antiferromagnetic stablization}{70}{section*.26}
+\contentsline {subsubsection}{\numberline {3}Interaction-enabled antiferromagnetic Dirac semimetal}{73}{section*.27}
+\contentsline {subsubsection}{\numberline {4}Fractional surface states}{77}{section*.28}
+\contentsline {subsection}{\numberline {D}Conclusion and Discussion}{79}{section*.29}
+\contentsline {section}{\numberline {III}Surfaces and Slabs of Fractional Topological Insulator Heterostructures}{81}{section*.30}
+\contentsline {subsection}{\numberline {A}Introduction}{81}{section*.31}
+\contentsline {subsection}{\numberline {B}Ferromagetic Heterostructure}{83}{section*.32}
+\contentsline {subsection}{\numberline {C}Superconducting Heterostructure}{85}{section*.33}
+\contentsline {subsection}{\numberline {D}Generalized $\mathcal {T}$-Pfaffian* surface state}{86}{section*.34}
+\contentsline {subsection}{\numberline {E}Gluing T-Pfaffian* surfaces}{89}{section*.35}
+\contentsline {subsection}{\numberline {F}Conclusion}{92}{section*.36}
+\contentsline {section}{\numberline {IV}Conclusion}{93}{section*.37}
+\contentsline {section}{\numberline {}References}{93}{section*.38}

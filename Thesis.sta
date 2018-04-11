@@ -1,0 +1,5 @@
+\standalonepreambles
+\subpreamble{sections/arXivFinal.tex}
+\usepackage {amsmath,amssymb,amsfonts,stmaryrd,wasysym,graphicx,multirow,color,textcomp,subfigure}\graphicspath {{/images/}{../images/}}\usepackage {url}\usepackage {../diagrams}\usepackage [colorlinks=true,citecolor=blue,urlcolor=blue]{hyperref}\newcommand {\CFT }{\hyperlink {CFT}{CFT} }\newcommand {\TR }{\hyperlink {TR}{TR} }\newcommand {\AFTR }{\hyperlink {AFTR}{AFTR} }\newcommand {\BZ }{\hyperlink {BZ}{BZ} }\newcommand {\TRIM }{\hyperlink {TRIM}{TRIM} }\newcommand {\WTI }{\hyperlink {WTI}{WTI} }\newcommand {\AFTI }{\hyperlink {AFTI}{AFTI} }\newcommand {\GEV }{\hyperlink {GEV}{GEV} }\newcommand {\FQH }{\hyperlink {FQH}{FQH} }\newcommand {\QP }{\hyperlink {QP}{QP} }\newcommand {\PHS }{\hyperlink {PHS}{PHS} }\newcommand {\ETCR }{\hyperlink {ETCR}{ETCR} }\newcommand {\ABJ }{\hyperlink {ABJ}{ABJ} }\newcommand {\SG }{\hyperlink {SG}{SG} }\newcommand {\ARPES }{\hyperlink {ARPES}{ARPES} }
+\endsubpreamble
+\endstandalonepreambles

@@ -1,4 +1,4 @@
-\documentclass[prc,preprint,showpacs,eqsecnum,superscriptaddress,floatfix]{revtex4-1}
+\documentclass[aps,prb,preprint,showpacs,eqsecnum,superscriptaddress,floatfix]{revtex4-1}
 %\documentclass[a4paper,12pt]{book}
 %\documentclass[12pt]{report}
 \usepackage{amssymb}
@@ -24,9 +24,11 @@
 	\hypersetup{linkcolor=black}
 	\tableofcontents
 }
-\input{./sections/acknowledgments} %complete
+\input{./sections/acknowledgments} 
 
 \section{Introduction}
+\subsection{Motivation}
+\input{./sections/elevatorPitch}
 \input{./sections/introduction}
 %\section{Background}
 %\input{./sections/background}
@@ -37,7 +39,6 @@
 \section{Conclusion}
 \input{./sections/conclusion}
 
-\input{./sections/coupledBib}
-\input{./sections/FTIbib}
+\bibliography{refFinal}
 
 \end{document}
